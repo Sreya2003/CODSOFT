@@ -5,12 +5,12 @@ Internship Offer Letter post (LinkedIn) : https://www.linkedin.com/posts/sreya-d
 
 ## Task_1 (Number Game)
 
-video post (LinkedIn) :
+Video post (LinkedIn) :
 
 ## Task_2 (Student Grade Calculator)
 
-video post (LinkedIn) :
+Video post (LinkedIn) :
 
 ## Task_3 (ATM Interface)
 
-video post (LinkedIn) :
+Video post (LinkedIn) :

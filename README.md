@@ -29,7 +29,7 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 IDE : BlueJ
 
-Video post (LinkedIn) :
+Video post (LinkedIn) : https://www.linkedin.com/posts/sreya-debnath_codsoft-internship-javaprogramming-activity-7124992174567419905-Uf56?utm_source=share&utm_medium=member_desktop
 
 ## Task 3 (ATM Interface)
 
